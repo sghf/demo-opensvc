@@ -25,6 +25,6 @@
     "uilayout": "terminal-terminal"
   },
   "backend": {
-    "imageid": "centos-cluster2"
+    "imageid": "ubuntu"
   }
 }
