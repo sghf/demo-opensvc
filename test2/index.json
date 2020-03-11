@@ -24,7 +24,9 @@
   "environment": {
     "uilayout": "terminal-terminal"
   },
-  "backend": {
-    "imageid": "ubuntu"
-  }
+  "backend": 
+  [
+    {"imageid": "ubuntu"},
+    {"imageid": "ubuntu"}
+  ]
 }
