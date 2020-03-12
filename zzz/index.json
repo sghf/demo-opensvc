@@ -23,6 +23,6 @@
     "hidefinish": true
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "swarm"
   }
 }
