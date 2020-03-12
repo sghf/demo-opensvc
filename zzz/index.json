@@ -18,9 +18,11 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-terminal"
+    "uilayout": "terminal-terminal",
+    "hideintro": true,
+    "hidefinish": true
   },
   "backend": {
-    "imageid": "centos"
+    "imageid": "kubernetes"
   }
 }
