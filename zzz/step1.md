@@ -1,9 +1,9 @@
 # Test 1
 
-`ls -l`{execute}
+`ls -l`{{execute}}
 
 ALPZlap
 
 ## akzoako
 
-`ps -afux`{execute}
+`ps -afux`{{execute}}
